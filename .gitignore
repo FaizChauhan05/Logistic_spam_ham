@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+spam_Emails_data.csv
+spam_Emails_data.csv.zip
